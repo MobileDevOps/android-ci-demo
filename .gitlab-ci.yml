@@ -1,0 +1,10 @@
+image: mobiledevops/android-sdk-image:29.0.2
+stages:
+    - build
+
+release_build:
+    stage: build
+    tags:
+      - shared
+    script:
+        - ./gradlew clean assembleRelease
