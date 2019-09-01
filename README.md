@@ -6,7 +6,7 @@ Demo for an Android app ci/cd pipeline.
 
 - [x] ci service integration
     - [x] Travis CI: [.travis.yml](.travis.yml) (Jobs: https://travis-ci.org/mobiledevops/android-ci-demo)
-    - [x] CircleCI: [.circleci/config.yml](.circleci/config.yml) (Jobs: https://circleci.com/gh/mobiledevops/android-ci-demo)
+    - [x] CircleCI: [.circleci/config.yml](.circleci/config.yml) (Jobs: https://circleci.com/gh/MobileDevOps/android-ci-demo)
     - [x] GitLab CI/CD: [.gitlab-ci.yml](.gitlab-ci.yml) (Pipelines: https://gitlab.com/mobiledevops/android-ci-demo/pipelines)
 
 ## Planned Features
