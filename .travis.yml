@@ -4,7 +4,7 @@ services:
   - docker
 
 env:
-  - DOCKER_IMAGE=mobiledevops/android-sdk-image:29.0.2
+  - DOCKER_IMAGE=mobiledevops/android-sdk-image:30.0.3
 
 before_install:
   - docker pull $DOCKER_IMAGE
