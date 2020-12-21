@@ -1,6 +1,6 @@
 # Android CI demo
 
-Demo for an Android app ci/cd pipeline.
+Demo for an Android app CI/CD pipeline.
 
 ## Features
 
