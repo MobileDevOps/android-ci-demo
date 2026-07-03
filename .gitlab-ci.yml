@@ -7,4 +7,4 @@ release_build:
     tags:
       - shared
     script:
-        - ./gradlew clean assembleRelease
+        - ./gradlew clean assembleRelease --stacktrace
