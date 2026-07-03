@@ -1,0 +1,40 @@
+gradle/wrapper/gradle-wrapper.properties
+  s_724f866551869b::t_3e192a039a6d4e 3-7,9
+gradlew.bat
+  s_724f866551869b::t_3e192a039a6d4e 16-17,19,22,26-27,30-31,46,48-52,54,62-66,68,75-78,80-82
+gradlew
+  s_724f866551869b::t_3e192a039a6d4e 1,4,18-19,22-64,68,70-82,85-89,92,96,103,110-114,123,125,134-137,141,145-160,163-169,172-176,178-187,189-197,202-246
+app/build.gradle
+  s_724f866551869b::t_dd53923ea99960 6
+  s_724f866551869b::t_2a34a35ec16f88 37-39
+  s_724f866551869b::t_3846c9a38c374f 40-42
+  s_724f866551869b::t_570eb9d4a75b97 8,12-13,27-28,44-45
+.gitlab-ci.yml
+  s_724f866551869b::t_e73177b6060bd9 1
+.dockerignore
+  s_724f866551869b::t_78e4d71f9341b0 1-8
+README.md
+  s_724f866551869b::t_2ded03081271e0 9
+  s_724f866551869b::t_c79d9cb4e80862 5,7-8,10-21,23
+  s_724f866551869b::t_456dafed54fac7 22
+Dockerfile
+  s_724f866551869b::t_126a226ddaf0f1 5
+build.gradle
+  s_724f866551869b::t_91c217f18b0c6c 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "b5cc4fa3d284c51dc37133fd9df1ccb3cc7b19aa",
+  "prompts": {},
+  "sessions": {
+    "s_724f866551869b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "666f921f-501e-4c62-b100-821465d228ce",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Sebastian Messingfeld <sebastian@messeb.com>"
+    }
+  }
+}
