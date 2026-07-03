@@ -22,6 +22,10 @@ Build the app inside the CI base image:
 docker build --pull -t android-ci-demo .
 ```
 
+The image is pinned to `linux/amd64`: Google does not ship a linux-arm64
+`aapt2`, so Android resource builds require amd64. On Apple Silicon the
+build runs under emulation.
+
 ## Planned Features
 
 - [ ] Unit / ui testing
