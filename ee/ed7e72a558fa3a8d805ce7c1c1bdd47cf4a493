@@ -1,0 +1,45 @@
+gradlew.bat
+  s_724f866551869b::t_3e192a039a6d4e 1-16
+  s_724f866551869b::t_90ab229117ecb1 32-34,36,43,57,72,74
+build.gradle
+  s_724f866551869b::t_bba9aa866067a6 3
+  s_724f866551869b::t_85cc32212a38c9 2
+  s_724f866551869b::t_4194f7b3526cfa 4-6
+app/build.gradle
+  s_724f866551869b::t_dd53923ea99960 12
+  s_724f866551869b::t_d96bbce3732040 7
+  s_724f866551869b::t_2a34a35ec16f88 36,40-41
+  s_724f866551869b::t_222b95c70b804c 27
+  s_724f866551869b::t_63881b3c1ead45 8-10
+  s_724f866551869b::t_3adb90ed654db5 13-14
+  s_724f866551869b::t_adf0f1dcd8bf51 28-30,33-35
+  s_724f866551869b::t_9b652005c6969e 42-44
+  s_724f866551869b::t_f35b8d2a71e68d 1-4,17,20,31-32,45-50
+Dockerfile
+  s_724f866551869b::t_cd7f2c0a59cb62 3-5
+  s_724f866551869b::t_694343864818e1 1
+  s_724f866551869b::t_d5c4e325f3cb4b 2
+  s_724f866551869b::t_4d30118c231df4 6-7
+gradle/wrapper/gradle-wrapper.properties
+  s_724f866551869b::t_2a5825ff7af7d7 1,3,6
+gradlew
+  s_724f866551869b::t_f590e756f901de 3-18,47,85,129-130,133,159,162-171,180
+.gitlab-ci.yml
+  s_724f866551869b::t_dc18b5dd6498de 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "eeed7e72a558fa3a8d805ce7c1c1bdd47cf4a493",
+  "prompts": {},
+  "sessions": {
+    "s_724f866551869b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "666f921f-501e-4c62-b100-821465d228ce",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Sebastian Messingfeld <sebastian@messeb.com>"
+    }
+  }
+}
