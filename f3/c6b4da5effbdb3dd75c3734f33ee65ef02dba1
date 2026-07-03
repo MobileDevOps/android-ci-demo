@@ -1,0 +1,21 @@
+README.md
+  s_724f866551869b::t_0b59e565f65cc7 25-28
+Dockerfile
+  s_724f866551869b::t_951787a37c6eca 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "f3c6b4da5effbdb3dd75c3734f33ee65ef02dba1",
+  "prompts": {},
+  "sessions": {
+    "s_724f866551869b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "666f921f-501e-4c62-b100-821465d228ce",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Sebastian Messingfeld <sebastian@messeb.com>"
+    }
+  }
+}
