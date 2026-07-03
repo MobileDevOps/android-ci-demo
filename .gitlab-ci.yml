@@ -1,4 +1,4 @@
-image: mobiledevops/android-sdk-image:30.0.3
+image: mobiledevops/android-sdk-image:latest
 stages:
     - build
 
